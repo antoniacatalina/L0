@@ -1,0 +1,9 @@
+C:\Users\Antonia\Desktop\L0>doskey /History
+cd Desktop/
+git clone https://github.com/antoniacatalina/L0
+cd L0/
+git add lab0.txt
+git commit -m "lab cero"
+git push
+git pull
+doskey /History
